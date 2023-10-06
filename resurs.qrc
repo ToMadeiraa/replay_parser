@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../Desktop/qwe.jpg</file>
+        <file>../../Desktop/fon1.png</file>
+        <file>../../Desktop/button.png</file>
+        <file>../../Desktop/fon2.png</file>
+    </qresource>
+</RCC>
